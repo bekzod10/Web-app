@@ -1,0 +1,236 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100%;
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+
+
+.search-container {
+    display: flex;
+    align-items: center;
+    background-color:#10141E;
+    padding: 10px 15px;
+    border-radius: 20px;
+    width: 381px;
+    height: 32px;
+    color: white;
+    margin-top: 64px;
+    margin-left: 164px;
+   
+}
+  
+.search-icon {
+    font-size: 16px;
+    margin-right: 10px;
+    color: #ccc;
+}
+
+.search-input {
+    border: none;
+    outline: none;
+    background: transparent;
+    color: white;
+    font-size: 16px;
+    width: 100%;
+}
+  
+.search-input::placeholder {
+    color: #888;
+}
+  
+body{
+    background-color: #10141E;  
+}
+
+
+
+.icon-ul{
+    list-style: none;
+
+}
+
+.path-box{
+    padding-top: 35px;
+    padding-left: 32px;
+    row-gap: 74px;
+}
+
+.aside-wrapper{
+    background-color: #161D2F;
+    width: 96px;
+    height: 960px;
+    border-radius: 20px;
+}
+
+.site-bar {
+    position: fixed;
+    top: 32px;
+    left: 32px;
+}
+
+.icon-ul{
+    padding-top: 136px;
+    padding-left: 38px;
+}
+
+.icon-li{
+    margin-bottom: 20px;
+}
+
+
+swiper-container {
+    width: 100%;
+    height: 100%;
+  }
+
+  swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+.carusel{
+    margin-top: 100px;
+    margin-left: 165px;
+}
+
+
+.carusel-img{
+    width: 545px;
+    height: 250px;
+    border-radius: 8px;
+}
+
+.carusel-title{
+    font-family: Outfit;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 100%;
+    width: 122;
+    height: 40;
+    color: #fff;
+    position: absolute;
+    top: 135px;
+}
+
+.carusel-img-title{
+    width: 145;
+    height: 30;
+    font-family: Outfit;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100%;
+    
+}
+
+
+.card-title{
+    width: 312;
+    height: 40;
+    margin-top: 40px;
+    margin-left: 165px;
+    font-family: Outfit;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: -0.5px;
+    color: #fff;
+}
+
+.card-img-text{
+    width: 137;
+    height: 16;
+    color: #fff;
+    opacity: 50%;
+}
+
+.card-text{
+    width: 134;
+    height: 23;
+    font-family: Outfit;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    margin-top: 5px;
+    color: #fff;
+}
+
+
+.card-img{
+    margin-right: 40px;
+}
+
+
+.card-img-wrapp-line {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: center;
+    position: absolute;
+    left: 164px;
+    top: 537px;
+    gap: 15px; /* Barcha rasmlar orasida 15px bo'sh joy qo'shadi */
+   
+}
+
+.card-box-img {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    max-width: 250px;
+}
+
+.icon-svg-site-bar:hover{
+    cursor: pointer;
+}
+
+.two-html-card-img-wrapp-line{
+    position: absolute;
+    top: 200px;
+    
+}
+
+
+.card-box-img {
+    margin-right: 40px;
+}
+
+.card-img-wrapp-line {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px; 
+}
+
+
+.two-html-card-img-wrapp-line{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
