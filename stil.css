@@ -51,7 +51,7 @@ body{
     border-right: 1px solid #161D2F;
     position: absolute;
     top: 299px;
-    left: 552px;
+    left: 530px;
     color: #FFFFFF;
 }
 
@@ -68,7 +68,7 @@ body{
     border-right: 1px solid #161D2F;
     position: absolute;
     top: 360px;
-    left: 552px;
+    left: 530px;
     color: #FFFFFF;
     
 }
@@ -83,7 +83,7 @@ body{
     border-radius: 6px;
     color: #FFFFFF;
     margin-top: 190px;
-    margin-left: 53px;
+    margin-left: 30px;
     color: white; 
     background-color: red;
 }
@@ -130,7 +130,7 @@ body{
 .repeat-password-registr{
     position: absolute;
     top: 421px;
-    left: 552px;
+    left: 530px;
     width: 336px;
     height: 37px;
     background-color: #161D2F;
